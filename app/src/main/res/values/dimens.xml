@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_padding">2dp</dimen>
+    <dimen name="img_dimensions">135dp</dimen>
+    <dimen name="default_margin">5dp</dimen>
+</resources>
